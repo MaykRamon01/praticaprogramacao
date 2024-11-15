@@ -1,2 +1,2 @@
 # praticaprogramacao
- Começando estduso de html
+ Começando estudos de html
